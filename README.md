@@ -126,7 +126,8 @@ jupyter notebook notebooks/california_housing_prediction.ipynb
 
 - households
 
-![[distribution_before 1.png]]![[distribution_after.png]]
+![Distribution before](images/distribution_before.png)
+![Distribution after](images/distribution_after.png)
 
 ### 2. Feature Engineering
 
@@ -142,7 +143,7 @@ jupyter notebook notebooks/california_housing_prediction.ipynb
 
 #### Correlation Analysis
 
-![[correlation_heatmap.png]]
+![Correlation heatmap](images/correlation_heatmap.png)
 
 Key findings:
 
@@ -152,7 +153,7 @@ Key findings:
 
 #### Geographical Distribution
 
-![images/geographical_distribution.png]
+![Geographical distribution](images/geographical_distribution.png)
 
 The scatter plot reveals:
 
