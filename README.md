@@ -35,15 +35,14 @@ california_housing_prediction/
 ├── data/
 │   └── housing.csv
 │
-├── notebooks/
-│   └── california_housing_prediction.ipynb
-│
 ├── images/
-│   ├── distribution_before_after.png
+│   ├── distribution_before.png
+│   ├── distribution_after.png
 │   ├── correlation_heatmap.png
 │   ├── geographical_distribution.png
 │   └── feature_importance.png
 │
+├── main.ipynb
 ├── README.md
 └── requirements.txt
 ```
