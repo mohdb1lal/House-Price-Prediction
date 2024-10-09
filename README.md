@@ -152,7 +152,7 @@ Key findings:
 
 #### Geographical Distribution
 
-![[images/geographical_distribution.png]]
+!(images/geographical_distribution.png)
 
 The scatter plot reveals:
 
